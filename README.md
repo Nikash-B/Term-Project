@@ -14,3 +14,6 @@ Libraries which need to be downloaded: The CMU CS3 graphics library which
 contains the cmu_cs3_graphics.py file and the cmu_graphics folder.
 
 List of Shortcut commands: There are no shortcut commands in the application.
+
+This is a copy of my original repository, made public with personal information
+removed.
