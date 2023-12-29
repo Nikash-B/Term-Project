@@ -1,0 +1,57 @@
+Citations:
+
+Pygame - handling images: https://www.pygame.org/docs/
+    Most used class: pygame.Surface 
+
+RGB to HSV Coversion: https://www.rapidtables.com/convert/color/rgb-to-hsv.html
+
+Box Blur: https://en.wikipedia.org/wiki/Box_blur
+
+Note: Some of the filters without citations were implemented by creating
+mapping functions or through trial and error. Google's Color Picker, which can 
+be found here (https://g.co/kgs/q6WcLX), was sometimes used to assess which 
+values needed mapping functions.
+
+See comment on lines 61-66 of the filters.py function for further explanation
+on how the filters work.  
+
+In the filters.py file, someone helped to outline the implementation of 
+the Filter class, the SaturateFilter class, and the DesaturateFilter class.
+
+Read the cmu_graphic.py file and used callUserFn function to add a call to the 
+drawImage function to the customredrawAll function. customRedrawAll in 
+image_display_fix.py is a modified version of the redrawAll function in
+cmu_graphics.py 
+
+Read the RGB class in the shape_logic.py file to create the convertCMUToPG method.
+
+Flood Fill: https://www.geeksforgeeks.org/flood-fill-algorithm/
+
+See comment on lines 313-319 of the toolbars.py function for further explanation
+on how the lasso tool was used to make the layer.  
+
+Enumerate method: https://docs.python.org/3/library/functions.html#enumerate
+
+Finding neigherbors: https://en.wikipedia.org/wiki/Moore_neighborhood
+
+Images Citations:
+
+Birds: https://www.scientificamerican.com/article/silent-skies-billions-of-north-american-birds-have-vanished
+
+Eiffel Tower: https://engineering.purdue.edu/MSE/aboutus/gotmaterials/Buildings/patel.html
+
+Food 1: https://www.pexels.com/photo/flat-lay-photography-of-vegetable-salad-on-plate-1640777
+
+Food 2: https://www.bonappetit.com/recipe/vegan-pasta-alla-vodka
+
+Food 3: https://viva.org.uk/health/berries
+
+Italy: https://www.britannica.com/place/Italy/Land
+
+Peppers: https://www.jessicagavin.com/types-of-peppers
+
+Ship: https://www.businessinsider.com/cruise-ship-workers-reveal-what-life-is-like-sea-2019-4
+
+Transparent Rubber Duck: https://www.bubsngrubs.com.au/safety-1st-rubber-ducky-temp-guard.html
+
+Yosemite: https://www.nps.gov/yose/planyourvisit/yv.htm
